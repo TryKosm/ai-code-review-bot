@@ -1,5 +1,7 @@
-# ai-code-review-bot
+# Code Review Sentinel
 
-![CI](https://github.com/TryKosm/ai-code-review-bot/actions/workflows/ci.yml/badge.svg)
+Surface risk hotspots in AI-assisted pull requests.
+
+![CI](https://github.com/TryKosm/code-review-sentinel/actions/workflows/ci.yml/badge.svg)
 
 Python bot that scores pull request risk signals and drafts review comments.
